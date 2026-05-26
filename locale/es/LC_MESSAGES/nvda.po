@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: conversorDivisas 1.2.1\n"
+"Report-Msgid-Bugs-To: arash@ancadper.com\n"
+"POT-Creation-Date: 2026-05-26 00:00+0000\n"
+"PO-Revision-Date: 2026-05-26 00:00+0000\n"
+"Last-Translator: Arash <arash@ancadper.com>\n"
+"Language-Team: Spanish\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Currency converter"
+msgstr "Conversor de divisas"
+
+msgid "&Currency converter..."
+msgstr "&Conversor de divisas..."
+
+msgid "{result} Result copied to clipboard."
+msgstr "{result} Resultado copiado al portapapeles."
+
+msgid "Currencies swapped. From {source} to {target}."
+msgstr "Monedas intercambiadas. De {source} a {target}."
+
+msgid "Open the currency converter window"
+msgstr "Abrir ventana del conversor de divisas"
+
+msgid "Enter an amount and convert using the last saved currencies"
+msgstr "Introducir cantidad y convertir usando las últimas monedas guardadas"
+
+msgid "Speak the last currency conversion result"
+msgstr "Leer el último resultado del conversor de divisas"
+
+msgid "Swap the last currencies used by the currency converter"
+msgstr "Intercambiar las últimas monedas usadas en el conversor de divisas"
+
+msgid "There are no conversions yet."
+msgstr "Todavía no hay conversiones."
+
+msgid "The API did not return a valid currency list."
+msgstr "La API no devolvió una lista de monedas válida."
+
+msgid "The API did not return any available currencies."
+msgstr "La API no devolvió monedas disponibles."
+
+msgid "Enter an amount."
+msgstr "Introduce una cantidad."
+
+msgid "The amount is not valid."
+msgstr "La cantidad no es válida."
+
+msgid "The amount must be greater than zero."
+msgstr "La cantidad debe ser mayor que cero."
+
+msgid "Select source and target currencies."
+msgstr "Selecciona moneda de origen y moneda de destino."
+
+msgid "same currency"
+msgstr "misma moneda"
+
+msgid "Could not get the exchange rate. Check your Internet connection or try again later."
+msgstr "No se pudo consultar el tipo de cambio. Comprueba tu conexión a Internet o inténtalo más tarde."
+
+msgid "The API did not return the target currency."
+msgstr "La API no devolvió la moneda de destino."
+
+msgid "no date"
+msgstr "sin fecha"
+
+msgid "{amount} {source} is approximately {result} {target}. Exchange rate date: {date}."
+msgstr "{amount} {source} son aproximadamente {result} {target}. Fecha del tipo de cambio: {date}."
+
+msgid "Enter the amount to convert:"
+msgstr "Introduce la cantidad a convertir:"
+
+msgid "Convert currencies"
+msgstr "Convertir divisas"
+
+msgid "Convert"
+msgstr "Convertir"
+
+msgid "Swap currencies"
+msgstr "Intercambiar monedas"
+
+msgid "Speak last result"
+msgstr "Leer último resultado"
+
+msgid "Close\tAlt+F4"
+msgstr "Cerrar\tAlt+F4"
+
+msgid "Privacy"
+msgstr "Privacidad"
+
+msgid "About"
+msgstr "Acerca de"
+
+msgid "File"
+msgstr "Archivo"
+
+msgid "Help"
+msgstr "Ayuda"
+
+msgid "Amount:"
+msgstr "Cantidad:"
+
+msgid "From:"
+msgstr "De:"
+
+msgid "To:"
+msgstr "A:"
+
+msgid "Recent conversions:"
+msgstr "Conversiones recientes:"
+
+msgid "Result"
+msgstr "Resultado"
+
+msgid "Swap"
+msgstr "Intercambiar"
+
+msgid "Close"
+msgstr "Cerrar"
+
+msgid "Currencies swapped."
+msgstr "Monedas intercambiadas."
+
+msgid "This add-on queries the public Frankfurter API to get exchange rates. It sends the amount and the selected currencies. It does not send personal information.\n\nThe last values used are stored locally in NVDA's configuration. The recent conversion history is kept only for the current NVDA session and is cleared when NVDA is closed or restarted."
+msgstr "Este complemento consulta la API pública de Frankfurter para obtener tipos de cambio. Se envían la cantidad y las monedas elegidas. No se envía información personal.\n\nLos últimos valores usados se guardan localmente en la configuración de NVDA. El historial reciente solo se mantiene durante la sesión actual y se limpia al cerrar o reiniciar NVDA."
+
+msgid "Currency converter for NVDA.\n\nConverts amounts between currencies using Frankfurter API.\n\nResults are approximate and may not match bank fees, commercial rates or exchange offices.\n\nVersion 1.2.1.\n\nCreated by Arash: https://ancadper.com"
+msgstr "Conversor de divisas para NVDA.\n\nConvierte importes entre monedas usando Frankfurter API.\n\nLos resultados son aproximados y pueden no coincidir con comisiones bancarias, tarifas comerciales o casas de cambio.\n\nVersión 1.2.1.\n\nCreado por Arash: https://ancadper.com"
+
+msgid "Currency converter"
+msgstr "Conversor de divisas"
+
+msgid "NVDA add-on to convert amounts between currencies using Frankfurter API, with an accessible window, temporary session history and configurable gestures."
+msgstr "Complemento de NVDA para convertir cantidades entre divisas usando Frankfurter API, con una ventana accesible, historial temporal de sesión y gestos configurables."
